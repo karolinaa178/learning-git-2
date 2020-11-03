@@ -8,8 +8,8 @@ body {
 .splash {
     min-height: 300px;
     display: flex;
-    background: #35313c;
-    color: #ffffff;
+    background-image: url("https://images.unsplash.com/photo-1513553404607-988bf2703777?ixlib=rb-1.2.1&auto=format&fit=crop&w=1952&q=80");
+    color: #35313c;
 }
 .splash-inner {
         margin: auto;
